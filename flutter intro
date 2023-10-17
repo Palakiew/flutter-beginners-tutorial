@@ -1,0 +1,45 @@
+This Flutter Tutorial is specifically designed for beginners and experienced professionals. It covers both the basics and advanced concepts of the Flutter framework.
+
+Flutter is Google’s Mobile SDK to build native iOS and Android apps from a single codebase. It was developed on December 4, 2018. When building applications with Flutter, everything is towards Widgets – the blocks with which the Flutter apps are built. The User Interface of the app comprises many simple widgets, each handling one particular job. That is why Flutter developers tend to think of their Flutter app as a tree of devices.
+
+Compared to its contemporary technologies like React Native, Kotlin, and Java, Flutter is much better in regard to having a Single Codebase for Android and iOS, Reusable UI and Business Logic, high compatibility, performance, and productivity.
+Why learn Flutter?
+
+There are some key features of the Flutter: 
+
+    Cross-platform development: Flutter allows developers to write a single codebase for both Android and iOS, and It reduces the time and costs of development also.
+    Fast development: It has a hot reload feature that allows developers to see the changes immediately that occur in code, It makes the development process faster and more efficient.
+    Attractive UI: Flutter provides a rich set of customizable widgets that allow developers to create visually attractive and responsive user interfaces.
+    Performance: Flutter uses the Dart programming language and its efficient rendering engine, Skia, ensures high performance, fast app startup times, and smooth animations.
+    Large community: Flutter has a growing and supportive community, which provides Flutter developers with the vast documentation, resources, and third-party packages, which makes the development easy.
+    Open-Source: Flutter is a free and open-source framework for developing mobile applications.
+
+Features of Flutter
+Features of the Flutter include:
+
+    Cross-platform development
+    Single codebase for multiple platforms
+    Hot Reload for instant code changes
+    Rich UI with customizable widgets
+    Fast performance and smooth animations
+    Native-like user experience
+    Access to native features and APIs
+    Dart programming language
+    Strong community support
+    Integration with existing code
+    Testing and debugging tools
+    Open-source and free
+
+Advantages of Flutter
+
+    Flutter comes with attractive and customizable widgets for high-performance and awesome mobile applications.
+    Dart has a big repository of software packages that lets you develop the capabilities of your application.
+    It requires lower testing. Because of its single code base, it is sufficient if we write automated tests once for both IOS and Android platforms. 
+    Developers need to write just a single code base for both Android and IOS applications. 
+    Flutter’s simplicity makes it a good choice for fast development. Its customization capability and extensibility make it even more effective.
+    Developers have full control over the widgets and their layout with Flutter.
+    It offers amazing developer tools, with great hot reload.
+
+Prerequisite 
+
+Before diving into Flutter, it is important to have a strong grasp of Dart programming, familiarity with Android Studio, and knowledge of web scripting languages like HTML, JavaScript, and CSS.
